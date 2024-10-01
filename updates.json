@@ -1,0 +1,10 @@
+{
+    "homepage": "https://forum.mcmodding.ru/",
+    "1.16.5": {
+        "0.0.0": "Recomended"
+    },
+    "promos": {
+        "1.16.5-latest": "0.0.0",
+        "1.16.5-recommended": "0.0.0"
+    }
+}
