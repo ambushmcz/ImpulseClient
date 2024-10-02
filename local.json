@@ -2,6 +2,7 @@
   {
     "smallImageKey": "https://cdn.discordapp.com/attachments/1260587845777625090/1291014055099629620/snow.png?ex=66fe8e08&is=66fd3c88&hm=5190be17395f8c5cd423be397f1637841df74bca96f99508ddde8c8e646aef74&",
     "largeImageKey": "https://otvet.imgsmail.ru/download/64114242_5b77b8ab27f16eca05931b404e15c266_800.jpg",
-    "largeImageText": "ImpulseClient"
+    "largeImageText": "ImpulseClient",
+    "state": "stateIsAlive"
   }
 ]
