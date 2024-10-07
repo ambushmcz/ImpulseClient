@@ -1,8 +1,13 @@
 [
   {
-    "smallImageKey": "https://i.imgur.com/RBrnpwA.png",
-    "largeImageKey": "https://otvet.imgsmail.ru/download/64114242_5b77b8ab27f16eca05931b404e15c266_800.jpg",
-    "largeImageText": "ImpulseClient",
-    "state": "dieAlive"
+    "smallImageKey": "",
+    "largeImageKey": "https://i.imgur.com/RBrnpwA.png",
+    "largeImageText": "ImpulseClient %version",
+    "displayNames": 
+    [
+      "0.0.0": "A first version",
+      "1.3": "Witch!",
+      "1.16.5-BETA-10.3": "A beta version"
+    ]
   }
 ]
